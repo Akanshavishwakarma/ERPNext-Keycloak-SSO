@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+node_modules/
+__pycache__/
+*.log
+.DS_Store
